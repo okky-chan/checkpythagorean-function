@@ -1,0 +1,1 @@
+# checkpythagorean-function
